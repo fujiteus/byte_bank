@@ -1,0 +1,15 @@
+G:\Meu Drive\DD\SharpCoders\BeCrowd\byteBank\bin\Debug\net6.0\byteBank.exe
+G:\Meu Drive\DD\SharpCoders\BeCrowd\byteBank\bin\Debug\net6.0\byteBank.deps.json
+G:\Meu Drive\DD\SharpCoders\BeCrowd\byteBank\bin\Debug\net6.0\byteBank.runtimeconfig.json
+G:\Meu Drive\DD\SharpCoders\BeCrowd\byteBank\bin\Debug\net6.0\byteBank.dll
+G:\Meu Drive\DD\SharpCoders\BeCrowd\byteBank\bin\Debug\net6.0\byteBank.pdb
+G:\Meu Drive\DD\SharpCoders\BeCrowd\byteBank\obj\Debug\net6.0\byteBank.csproj.AssemblyReference.cache
+G:\Meu Drive\DD\SharpCoders\BeCrowd\byteBank\obj\Debug\net6.0\byteBank.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\DD\SharpCoders\BeCrowd\byteBank\obj\Debug\net6.0\byteBank.AssemblyInfoInputs.cache
+G:\Meu Drive\DD\SharpCoders\BeCrowd\byteBank\obj\Debug\net6.0\byteBank.AssemblyInfo.cs
+G:\Meu Drive\DD\SharpCoders\BeCrowd\byteBank\obj\Debug\net6.0\byteBank.csproj.CoreCompileInputs.cache
+G:\Meu Drive\DD\SharpCoders\BeCrowd\byteBank\obj\Debug\net6.0\byteBank.dll
+G:\Meu Drive\DD\SharpCoders\BeCrowd\byteBank\obj\Debug\net6.0\refint\byteBank.dll
+G:\Meu Drive\DD\SharpCoders\BeCrowd\byteBank\obj\Debug\net6.0\byteBank.pdb
+G:\Meu Drive\DD\SharpCoders\BeCrowd\byteBank\obj\Debug\net6.0\byteBank.genruntimeconfig.cache
+G:\Meu Drive\DD\SharpCoders\BeCrowd\byteBank\obj\Debug\net6.0\ref\byteBank.dll
